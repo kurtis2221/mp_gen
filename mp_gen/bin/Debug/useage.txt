@@ -1,0 +1,15 @@
+PORT
+MAX_PLAYERS
+MAX_BUFFER_SIZE (HEX)
+INTERVAL (ms)
+GameExE
+Nr. of states
+State address (HEX)
+State val (byte array FF;FF)
+Nr. of addresses
+Player address1>Offset1>Offset2...;Player address2... (HEX)
+Network adress1>Offset1>Offset2...;Network adress2... (HEX)
+Buffer size (HEX)
+Offset size (HEX)
+...Repeat from State address if more than 1
+Use base address (True/False)
